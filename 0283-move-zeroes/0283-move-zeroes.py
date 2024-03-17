@@ -3,7 +3,8 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        for num in nums:
+        modi_nums = nums[:]
+        for num in modi_nums:
             if num == 0:
                 nums.remove(0)
                 nums.append(0)
