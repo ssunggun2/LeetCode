@@ -13,6 +13,7 @@
 # Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ssunggun2/LeetCode/tree/master/0035-search-insert-position) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ssunggun2/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 # Sorting
 |  |
@@ -22,3 +23,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ssunggun2/LeetCode/tree/master/0020-valid-parentheses) |
+# Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ssunggun2/LeetCode/tree/master/0035-search-insert-position) |
