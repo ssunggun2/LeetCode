@@ -14,6 +14,7 @@
 # Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ssunggun2/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ssunggun2/LeetCode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/ssunggun2/LeetCode/tree/master/0088-merge-sorted-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ssunggun2/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -33,6 +34,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ssunggun2/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ssunggun2/LeetCode/tree/master/0088-merge-sorted-array) |
 # Math
 |  |
