@@ -48,3 +48,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ssunggun2/LeetCode/tree/master/0070-climbing-stairs) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/ssunggun2/LeetCode/tree/master/1916-find-center-of-star-graph) |
