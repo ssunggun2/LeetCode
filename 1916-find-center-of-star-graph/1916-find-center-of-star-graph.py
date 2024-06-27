@@ -1,8 +1,4 @@
 class Solution:
     def findCenter(self, edges: List[List[int]]) -> int:
-        for i, edge in enumerate(edges):
-            if  i == 0:
-                u = edge[0]
-                v = edge[1]
-                continue
-            return u if u in edge else v
+        u = edges[0][0]
+        return u if u in edges[1] else edges[0][1]
