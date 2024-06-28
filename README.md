@@ -23,6 +23,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ssunggun2/LeetCode/tree/master/0088-merge-sorted-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ssunggun2/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2379-maximum-total-importance-of-roads](https://github.com/ssunggun2/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 # Stack
 |  |
 | ------- |
@@ -52,3 +53,12 @@
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/ssunggun2/LeetCode/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/ssunggun2/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+# Greedy
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/ssunggun2/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/ssunggun2/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
