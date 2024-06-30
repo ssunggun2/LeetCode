@@ -80,4 +80,16 @@
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ssunggun2/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Array
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ssunggun2/LeetCode/tree/master/0078-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ssunggun2/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ssunggun2/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
