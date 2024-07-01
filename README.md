@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ssunggun2/LeetCode/tree/master/0078-subsets) |
+| [1293-three-consecutive-odds](https://github.com/ssunggun2/LeetCode/tree/master/1293-three-consecutive-odds) |
 ## Backtracking
 |  |
 | ------- |
