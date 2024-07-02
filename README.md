@@ -86,6 +86,7 @@
 | [0078-subsets](https://github.com/ssunggun2/LeetCode/tree/master/0078-subsets) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ssunggun2/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/ssunggun2/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/ssunggun2/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Backtracking
 |  |
 | ------- |
