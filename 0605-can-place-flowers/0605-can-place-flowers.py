@@ -9,8 +9,6 @@ class Solution:
                 n -= 1
         return n <= 0
 
-
-
         # def placing(flowerbed, n):
         #     if flowerbed[:2] == [1, 0]:
         #         flowerbed = flowerbed[2:]
