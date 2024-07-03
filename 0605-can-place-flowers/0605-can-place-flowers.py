@@ -7,6 +7,8 @@ class Solution:
             if empty_left and empty_right and flowerbed[i] == 0:
                 flowerbed[i] = 1
                 n -= 1
+                if n < 0:
+                    break
         return n <= 0
 
 
