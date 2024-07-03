@@ -85,6 +85,7 @@
 | ------- |
 | [0078-subsets](https://github.com/ssunggun2/LeetCode/tree/master/0078-subsets) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ssunggun2/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0605-can-place-flowers](https://github.com/ssunggun2/LeetCode/tree/master/0605-can-place-flowers) |
 | [1293-three-consecutive-odds](https://github.com/ssunggun2/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ssunggun2/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ssunggun2/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -126,5 +127,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/ssunggun2/LeetCode/tree/master/0605-can-place-flowers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ssunggun2/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 <!---LeetCode Topics End-->
