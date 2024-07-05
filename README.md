@@ -83,6 +83,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ssunggun2/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0078-subsets](https://github.com/ssunggun2/LeetCode/tree/master/0078-subsets) |
 | [0283-move-zeroes](https://github.com/ssunggun2/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ssunggun2/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -124,6 +125,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ssunggun2/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ssunggun2/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
@@ -144,4 +146,8 @@
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ssunggun2/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ssunggun2/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
