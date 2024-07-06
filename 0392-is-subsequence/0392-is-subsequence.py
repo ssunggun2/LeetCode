@@ -3,7 +3,6 @@ class Solution:
         k = 0
         for i in range(len(s)):
             target = s[i]
-            print(s,t)
             for j in range(len(t)):
                 if target == t[j]:
                     k += 1
