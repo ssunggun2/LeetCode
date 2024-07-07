@@ -120,6 +120,7 @@
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ssunggun2/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1642-water-bottles](https://github.com/ssunggun2/LeetCode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/ssunggun2/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Hash Table
 |  |
@@ -148,6 +149,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/ssunggun2/LeetCode/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ssunggun2/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/ssunggun2/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Divide and Conquer
