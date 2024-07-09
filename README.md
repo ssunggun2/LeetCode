@@ -93,6 +93,7 @@
 | [1293-three-consecutive-odds](https://github.com/ssunggun2/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ssunggun2/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ssunggun2/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1803-average-waiting-time](https://github.com/ssunggun2/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ssunggun2/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/ssunggun2/LeetCode/tree/master/1642-water-bottles) |
+| [1803-average-waiting-time](https://github.com/ssunggun2/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ssunggun2/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ssunggun2/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/ssunggun2/LeetCode/tree/master/2645-pass-the-pillow) |
