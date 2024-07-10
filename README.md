@@ -93,6 +93,7 @@
 | [1293-three-consecutive-odds](https://github.com/ssunggun2/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ssunggun2/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ssunggun2/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/ssunggun2/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/ssunggun2/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ssunggun2/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Backtracking
@@ -119,6 +120,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/ssunggun2/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ssunggun2/LeetCode/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ssunggun2/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1720-crawler-log-folder](https://github.com/ssunggun2/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1894-merge-strings-alternately](https://github.com/ssunggun2/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
@@ -183,4 +185,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ssunggun2/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/ssunggun2/LeetCode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
