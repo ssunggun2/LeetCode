@@ -3,9 +3,8 @@ class Solution:
         depth = 0
         for log in logs:
             if '..' in log:
-                depth -= 1
-                if depth < 0:
-                    depth = 0
+                if depth != 0:
+                    depth -= 1
             elif '.' in log:
                 continue
             else:
