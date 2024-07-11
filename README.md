@@ -120,6 +120,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/ssunggun2/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ssunggun2/LeetCode/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ssunggun2/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ssunggun2/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ssunggun2/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1894-merge-strings-alternately](https://github.com/ssunggun2/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Math
@@ -188,5 +189,6 @@
 ## Stack
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ssunggun2/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ssunggun2/LeetCode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
