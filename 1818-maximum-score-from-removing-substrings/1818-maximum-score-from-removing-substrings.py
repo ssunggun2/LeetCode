@@ -30,12 +30,3 @@ class Solution:
                 else:
                     stack2.append(c)
         return points
-        # if x >= y: first, second, first_score, second_score = 'ab', 'ba', x, y
-        # else : second, first, second_score, first_score = 'ab', 'ba', x, y
-        # while first in s:
-        #     s = s.replace(first, '', 1)
-        #     max_point += first_score
-        # while second in s:
-        #     s = s.replace(second, '', 1)
-        #     max_point += second_score
-        # return max_point
