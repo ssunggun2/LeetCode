@@ -91,6 +91,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ssunggun2/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/ssunggun2/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ssunggun2/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1196-filling-bookcase-shelves](https://github.com/ssunggun2/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ssunggun2/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/ssunggun2/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ssunggun2/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ssunggun2/LeetCode/tree/master/0392-is-subsequence) |
+| [1196-filling-bookcase-shelves](https://github.com/ssunggun2/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 ## Recursion
 |  |
 | ------- |
