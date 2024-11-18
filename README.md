@@ -110,6 +110,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ssunggun2/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/ssunggun2/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ssunggun2/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1755-defuse-the-bomb](https://github.com/ssunggun2/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1803-average-waiting-time](https://github.com/ssunggun2/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ssunggun2/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Backtracking
@@ -214,6 +215,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ssunggun2/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1755-defuse-the-bomb](https://github.com/ssunggun2/LeetCode/tree/master/1755-defuse-the-bomb) |
 ## Stack
 |  |
 | ------- |
