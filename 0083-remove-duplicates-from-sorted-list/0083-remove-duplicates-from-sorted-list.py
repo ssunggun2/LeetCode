@@ -17,5 +17,4 @@ class Solution:
             else:
                 prev = node
                 node = node.next
-                
         return head
