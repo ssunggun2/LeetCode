@@ -123,6 +123,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ssunggun2/LeetCode/tree/master/0078-subsets) |
+| [0190-reverse-bits](https://github.com/ssunggun2/LeetCode/tree/master/0190-reverse-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ssunggun2/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/ssunggun2/LeetCode/tree/master/0190-reverse-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
