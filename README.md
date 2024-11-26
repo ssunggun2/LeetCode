@@ -99,6 +99,7 @@
 | [0016-3sum-closest](https://github.com/ssunggun2/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ssunggun2/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/ssunggun2/LeetCode/tree/master/0078-subsets) |
+| [0119-pascals-triangle-ii](https://github.com/ssunggun2/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0130-surrounded-regions](https://github.com/ssunggun2/LeetCode/tree/master/0130-surrounded-regions) |
 | [0238-product-of-array-except-self](https://github.com/ssunggun2/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ssunggun2/LeetCode/tree/master/0283-move-zeroes) |
@@ -204,6 +205,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/ssunggun2/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/ssunggun2/LeetCode/tree/master/0392-is-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/ssunggun2/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 ## Recursion
